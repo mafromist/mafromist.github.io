@@ -35,3 +35,5 @@ do {
 
 console.log(num);
 
+alert(num);
+
